@@ -1,0 +1,6 @@
+mystr=input("Enter a string: ")
+# print(mystr + " is cool.")
+# print(mystr.lower())
+# print(mystr.upper())
+# print(len(mystr))
+print(mystr.index("h"))

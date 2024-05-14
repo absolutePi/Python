@@ -1,0 +1,11 @@
+from math import*
+num=float(input("Enter a number: "))
+# num2=int(input("Enter another numer: "))
+# print(str(num) + " is my favorite number.")
+# print(abs(num))
+# print(pow(num,2))
+# print(max(num,num2))
+# print(round(num))
+# print(floor(num))
+# print(ceil(num))
+print(sqrt(num))
