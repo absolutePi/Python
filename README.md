@@ -1,2 +1,2 @@
 # Python
-my pthon study
+My python study!!!
