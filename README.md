@@ -1,1 +1,2 @@
 # Python
+my pthon study
